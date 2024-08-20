@@ -3,7 +3,7 @@ Sonifying web traffic with Python, tshark, and Pure Data in ambisonics. A projec
 
 To initialize, run the Python script, set ports and then run the Pure Data patch.
 
-See the blog posts [here](https://jacksongoo.de/soniweb/) and [here](https://jacksongoo.de/soniweb-2/) for a clear explaination.
+See the blog posts [here](https://jackson.gd/soniweb/) and [here](https://jackson.gd/soniweb-2/) for a clear explaination.
 
 ### Cited in:
 Beate Ochsner (2021) Sonification of web tracking, Jasmine Guffond: Listening Back, Sound Studies, DOI: [10.1080/20551940.2021.1875292](https://doi.org/10.1080/20551940.2021.1875292) 
